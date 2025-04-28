@@ -8,7 +8,7 @@
 
 ## Demo
 
-[![Watch the demo](https://github.com/VaishnaviMantri09/Health-Care-Dashboard/blob/main/Health-Care-Dashboard-Preview.png)](https://github.com/VaishnaviMantri09/Health-Care-Dashboard/blob/main/Project-Video-Demo.mp4)
+[![Watch the demo](https://github.com/VaishnaviMantri09/Health-Care-Dashboard/blob/main/Health-Care-Dashboard-Preview.png)](https://drive.google.com/file/d/18zi7AUpWJoYoJMfCWJqFd1pMOeeIGR2y/view?usp=sharing)
 
 ## Technologies Used
 
