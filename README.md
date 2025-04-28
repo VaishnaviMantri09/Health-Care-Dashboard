@@ -61,8 +61,6 @@ npm run dev
 
 This will create an optimized version of the app in the `build/` directory. You can now deploy the app to a production server.
 
----
-
 ## Folder Structure
 
 Here is the basic structure of the project:
