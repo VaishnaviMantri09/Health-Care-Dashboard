@@ -1,0 +1,191 @@
+.topbar {
+    position: absolute;
+    top: 18px;
+    left: 10px;
+    width: 100%;
+    right: 20px;
+    max-width: 1500px;
+    height: 72px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border-radius: 50px;
+    opacity: 1;
+    justify-content: space-between;
+    display: flex;
+
+}
+
+.topbar-left {
+    display: flex;
+    align-items: center;
+}
+
+.topbar-right {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    max-width: 100%;
+    padding-right: 20px;
+    box-sizing: border-box;
+}
+
+.top-logo-container {
+    display: flex;
+    align-items: center;
+    margin-right: 90px;
+    margin-left: 10px;
+}
+
+.top-logo {
+    height: 50px;
+    width: auto;
+}
+
+.topbar-nav-links {
+    list-style: none;
+    display: flex;
+    gap: 24px;
+    margin: 0;
+    padding: 0;
+}
+
+.topbar-nav-links li {
+    display: flex;
+    align-items: center;
+    font-size: 1rem;
+    font-weight: 500;
+    cursor: pointer;
+    padding: 10px 16px;
+    border-radius: 20px;
+    transition: background 0.3s, color 0.3s;
+    color: #172B4D;
+}
+
+.topbar-nav-links li:hover {
+    background-color: #E3FCEF;
+    color: #036B52;
+}
+
+.topbar-nav-links .topbar-UserIcon {
+    margin-right: 10px;
+    top: 46px;
+    left: 473px;
+    width: 16px;
+    height: 17px;
+    background: transparent 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.topbar-nav-links .topbar-PatientIcon {
+    margin-right: 10px;
+    top: 46px;
+    left: 617px;
+    width: 24px;
+    height: 17px;
+    background: transparent 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.topbar-nav-links .topbar-ScheuldeIcon {
+    margin-right: 10px;
+    top: 46px;
+    left: 762px;
+    width: 15px;
+    height: 17px;
+    background: transparent 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.topbar-nav-links .topbar-MessagesIcon {
+    margin-right: 10px;
+    top: 46px;
+    left: 889px;
+    width: 19px;
+    height: 17px;
+    background: transparent 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.topbar-nav-links .topbar-CardIcon {
+    margin-right: 10px;
+    top: 46px;
+    left: 1017px;
+    width: 22px;
+    height: 17px;
+    background: transparent 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.topbar-nav-links .active {
+    background-color: #00C29A;
+    color: white;
+    font-weight: bold;
+}
+
+.topbar-right {
+    display: flex;
+    align-items: center;
+}
+
+.topbarrightprofile {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+
+}
+
+
+.topbarprofile-pic {
+    width: 40px;
+    height: 40px;
+    border-radius: 30%;
+    object-fit: cover;
+}
+
+.topbarprofile-info {
+    display: flex;
+    flex-direction: column;
+    font-size: 0.9rem;
+    margin-right: 16px;
+}
+
+.topbarprofile-name {
+    font-weight: bold;
+    color: #091E42;
+}
+
+.topbarprofile-role {
+    font-size: 0.85rem;
+    color: #6B778C;
+}
+
+.topbarsettings-btn {
+    width: 19px;
+    height: 20px;
+    background: transparent url('../assets/Settings.svg') no-repeat center center;
+    background-size: contain;
+    border: none;
+    padding: 0;
+    opacity: 1;
+    cursor: pointer;
+    margin-right: 5px;
+}
+
+.topbarsettings-btn:hover {
+    opacity: 0.8;
+}
+
+.topbarmore-btn {
+    width: 4px;
+    height: 18px;
+    background: transparent url('../assets/Vertical-More.svg') 0% 0% no-repeat padding-box;
+    background-size: contain;
+    border: none;
+    padding: 0;
+    opacity: 1;
+    cursor: pointer;
+    margin-right: 5px;
+}
+
+.topbarmore-btn:hover {
+    opacity: 0.8;
+}

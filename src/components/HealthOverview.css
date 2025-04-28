@@ -1,0 +1,210 @@
+.health-overview-container {
+  position: absolute;
+  top: 122px;
+  left: 340px;
+  width: 750px;
+  height: 600px;
+  background: #FFFFFF;
+  border-radius: 16px;
+  opacity: 1;
+  padding: 20px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+
+.health-title {
+  font: normal normal 800 24px/33px Manrope;
+  letter-spacing: 0px;
+  color: #072635;
+  opacity: 1;
+  color: #072635;
+  width: 207px;
+  height: 33px;
+  margin-bottom: 20px;
+}
+
+
+.graph-container {
+  background: #F4F0FE;
+  padding-left: 15px;
+  border-radius: 12px;
+  margin-top: -5px;
+}
+
+.graph-header {
+  display: flex;
+  justify-content: space-between;
+  color: #072635;
+  text-align: left;
+  font: normal normal bold 18px/24px Manrope;
+  letter-spacing: 0px;
+  text-transform: capitalize;
+  opacity: 1;
+  align-items: center;
+}
+
+.dropdown {
+  cursor: pointer;
+  display: flex;
+  font: normal normal normal 14px/19px Manrope;
+  margin-right: 250px;
+  letter-spacing: 0px;
+  color: #072635;
+}
+
+.graph-and-stats {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.graph-container {
+  flex: 2;
+}
+
+.stat {
+  position: absolute;
+  top: 90px;
+  right: 120px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-bottom: 20px;
+
+}
+
+.stat-item {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 10px;
+
+}
+
+.stat-dot {
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  margin-right: 8px;
+  margin-bottom: 0;
+}
+
+.stat .stat-label {
+  margin-right: 6px;
+  text-align: left;
+  font: normal normal bold 14px/19px Manrope;
+  letter-spacing: 0px;
+  color: #072635;
+  text-transform: capitalize;
+  opacity: 1;
+  font-size: 18px;
+}
+
+.stat .stat-value {
+  font-size: 22px;
+  margin-bottom: 5px;
+  text-align: left;
+  font: normal normal bold 22px/30px Manrope;
+  letter-spacing: 0px;
+  color: #072635;
+  text-transform: capitalize;
+  opacity: 1;
+  margin-right: 90px;
+}
+
+
+
+.stat .stat-status {
+  font-family: 'Manrope', sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  color: #072635;
+  text-align: left;
+  justify-content: flex-start;
+}
+
+.divider {
+  width: 160%;
+  height: 1px;
+  background-color: #D1D1D1;
+  margin: 10px 0;
+}
+
+
+.h4 {
+  display: block;
+  text-align: left;
+  letter-spacing: 0px;
+  font-family: 'Manrope', sans-serif;
+  color: #072635;
+  text-transform: capitalize;
+  opacity: 1;
+}
+
+.health-card-container {
+  display: flex;
+  margin-top: 9px;
+  font: Manrope;
+  font-size: 15px;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.card {
+  padding: 15px;
+  border-radius: 12px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  text-align: left;
+  flex-basis: 200px;
+  max-width: 220px;
+  justify-content: space-between;
+  margin-top: 5px;
+  font: Manrope;
+  font-size: 15px;
+  height: 160px;
+
+}
+
+.health-card-icon {
+  object-fit: contain;
+  margin-bottom: -15px;
+}
+
+.health-card-title {
+  font-size: 15px;
+  text-align: left;
+  letter-spacing: 0px;
+  color: #072635;
+  text-transform: capitalize;
+  opacity: 1;
+  margin-bottom: -8px;
+}
+
+.stat-value {
+  font-size: 18px;
+  font-weight: bold;
+  color: #072635;
+}
+
+
+.health-card-status {
+  font-size: 12px;
+  color: #072635;
+  margin-top: -10px;
+}
+
+.bg-blue {
+  background-color: #e0f2fe;
+}
+
+.bg-red {
+  background-color: #fee2e2;
+}
+
+.bg-pink {
+  background-color: #fce7f3;
+}
