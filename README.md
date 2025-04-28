@@ -1,4 +1,4 @@
-# React-Vite Project
+# Health Care Dashboard Project
 
 This is a React-Vite application that allows you to view and manage lab results and diagnostics.
 
