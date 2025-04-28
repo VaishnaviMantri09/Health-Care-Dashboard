@@ -8,7 +8,7 @@
 
 ## Demo Preview
 
-[Watch the demo](https://github.com/VaishnaviMantri09/Health-Care-Dashboard/blob/main/Health-Care-Dashboard-Preview.png)
+[![Watch the demo](https://github.com/VaishnaviMantri09/Health-Care-Dashboard/blob/main/Health-Care-Dashboard-Preview.png)](https://github.com/VaishnaviMantri09/Health-Care-Dashboard/raw/main/Project-Demo.mp4)
 
 You can download the video below to preview the project:
 [Download the Video to Preview the Project](https://github.com/VaishnaviMantri09/Health-Care-Dashboard/raw/main/Project-Demo.mp4)
