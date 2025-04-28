@@ -1,6 +1,9 @@
 # Health Care Dashboard Project
 
 This is a React-Vite application that allows you to view and manage lab results and diagnostics.
+This project is single-page web application that converts the given Adobe XD template into a responsive HTML page.
+The application fetches patient data from the Coalition Technologies Patient Data API and populates the UI accordingly.
+The focus is exclusively on displaying information for Jessica Taylor.
 
 ## Prerequisites
 
