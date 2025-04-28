@@ -5,6 +5,18 @@ This project is single-page web application that converts the given Adobe XD tem
 The application fetches patient data from the Coalition Technologies Patient Data API and populates the UI accordingly.
 The focus is exclusively on displaying information for Jessica Taylor.
 
+## Technologies Used:
+1.HTML5
+2.CSS3 (with Flexbox/Grid)
+3.JavaScript (ES6+)
+4.Chart.js (for blood pressure graph)
+5.Postman (for API requests and to Fetch API)
+
+## API Information
+API Base URL: Coalition Technologies Patient Data API Documentation (https://documenter.getpostman.com/view/11861104/2sA35G42ve) 
+GET request is made to retrieve patient data.
+Filtering: Only data for Jessica Taylor is fetched and displayed.
+
 ## Prerequisites
 
 Before you begin, ensure you have the following installed:
