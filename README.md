@@ -6,9 +6,12 @@
 - The focus is exclusively on displaying information for Jessica Taylor.
 - Adobe XD prototype Link for the same: https://xd.adobe.com/view/121254c9-532f-4772-a1ba-dfe529a96b39-4741/ 
 
-## Demo
+## Demo Preview
 
-[![Watch the demo](https://github.com/VaishnaviMantri09/Health-Care-Dashboard/blob/main/Health-Care-Dashboard-Preview.png)](https://drive.google.com/file/d/18zi7AUpWJoYoJMfCWJqFd1pMOeeIGR2y/view?usp=sharing)
+[![Watch the demo](https://github.com/VaishnaviMantri09/Health-Care-Dashboard/blob/main/Health-Care-Dashboard-Preview.png)]
+
+You can download the video below to preview the project:
+[Download the Video to Preview the Project](https://github.com/VaishnaviMantri09/Health-Care-Dashboard/raw/main/Project-Demo.mp4)
 
 ## Technologies Used
 
