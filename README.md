@@ -14,9 +14,9 @@ The focus is exclusively on displaying information for Jessica Taylor.
 5. **Postman** (for API testing and Fetch API verification)
 
 ## API Information
-API Base URL: Coalition Technologies Patient Data API Documentation (https://documenter.getpostman.com/view/11861104/2sA35G42ve) 
-GET request is made to retrieve patient data.
-Filtering: Only data for Jessica Taylor is fetched and displayed.
+- API Base URL: Coalition Technologies Patient Data API Documentation
+- Request Type: GET request to retrieve patient data.
+- Filtering: Only data for Jessica Taylor is fetched and displayed..
 
 ## Prerequisites
 
